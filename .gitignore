@@ -2,7 +2,7 @@
 /dist
 /node_modules
 /build
-
+/proyecto-viernes
 # Logs
 logs
 *.log
